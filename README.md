@@ -9,7 +9,7 @@ Simple Demo
 -----------
 ```python
 # Import the library
-from message import foreground
+from mfg import foreground
 
 # First create a instance with the following parameters
 # 	Text: 'Hello World'
