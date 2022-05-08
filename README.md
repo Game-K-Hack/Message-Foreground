@@ -21,6 +21,16 @@ f = foreground('Hello World', '#fffffe')
 f.display()
 ```
 
+
+Requirement
+---------------
+- `tkinter`
+- `win32api`
+- `win32con`
+- `threading`
+- `pywintypes`
+
+
 Development
 -----------
 
