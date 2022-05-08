@@ -5,6 +5,14 @@
 This library allows you to create a message that is displayed in the foreground and above all other elements.
 
 
+Install
+-------
+
+```shell
+pip install mfg
+```
+
+
 Simple Demo
 -----------
 ```python
